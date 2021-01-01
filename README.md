@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**yuuhakobe/yuuhakobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ゆうはこべ | Yuu Hakobe
 
 Here are some ideas to get you started:
 
