@@ -10,7 +10,6 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![LESS](https://img.shields.io/badge/-LESS-007ACC?style=for-the-badge) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![PY](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -25,9 +24,9 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![ps](https://img.shields.io/badge/-PhotoShop-31A8FF?style=for-the-badge&logo=Adobe-photoshop&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
 ### Contact us
-email - yuuhakobe1200@gmail.com
-discord -  yuuhakobe#1112
-phone - +(371) 25-511-203
+email - yuuhakobe1200@gmail.com <br />
+discord -  yuuhakobe#1112 <br />
+phone - +(371) 25-511-203 <br />
 
 
 ### Folow me
