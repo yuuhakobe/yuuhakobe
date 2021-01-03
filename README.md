@@ -20,7 +20,7 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VSC](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
-![sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
+![ps](https://img.shields.io/badge/-PS-31A8FF?style=for-the-badge&logo=Adobe-photoshop&logoColor=ffffff)
 
 ### Contact us
 
