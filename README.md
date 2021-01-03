@@ -30,9 +30,11 @@ phone - +(371) 25-511-203 <br />
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPRxtrwRtgYfmCpgUoJ_DQw)
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/raivis.yuuhakobe)
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/yuuhakobe)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yuu-hakobe-a1a146203/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/yuuhakobe)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/Yuu23290394)
+
 [![Steam](https://img.shields.io/badge/-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/ThisIsHakobeBitch/)
 
 ### Stats
