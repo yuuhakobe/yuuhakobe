@@ -9,7 +9,7 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-HTML-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ### Contact us
 
 ### Folow me
