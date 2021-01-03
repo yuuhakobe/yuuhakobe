@@ -6,7 +6,6 @@ I'm web developer and python developer! <br />
 I'm learning to be a web designer and learning the basics of cybersecurity! <br />
 I live in Latvia and i can speak on 4 languages - russian, latvian, english and japanese!  <br />
 
-
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -15,7 +14,6 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![PY](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Pawn](https://img.shields.io/badge/-PAWN-FF8700?style=for-the-badge&logo=planet&logoColor=ffffff)
-
 
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -28,7 +26,6 @@ email - yuuhakobe1200@gmail.com <br />
 discord -  yuuhakobe#1112 <br />
 phone - +(371) 25-511-203 <br />
 
-
 ### Folow me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPRxtrwRtgYfmCpgUoJ_DQw)
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/raivis.yuuhakobe)
@@ -37,5 +34,6 @@ phone - +(371) 25-511-203 <br />
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/yuuhakobe)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/Yuu23290394)
 
+### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
