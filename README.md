@@ -27,7 +27,7 @@ discord -  yuuhakobe#1112 <br />
 phone - +(371) 25-511-203 <br />
 
 ### Folow me
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](youtube)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)][youtube]
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](instagram)
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](telegram)
 
