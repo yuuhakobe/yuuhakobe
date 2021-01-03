@@ -10,12 +10,11 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
-
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-
 ![PY](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Pawn](https://img.shields.io/badge/-PAWN-FF8700?style=for-the-badge&logo=planet&logoColor=ffffff)
 
 ### Contact us
 
