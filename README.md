@@ -30,3 +30,9 @@ phone - +(371) 25-511-203 <br />
 
 
 ### Folow me
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPRxtrwRtgYfmCpgUoJ_DQw)
+[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/yuuhakobe)
+[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/raivis.yuuhakobe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yuu-hakobe-a1a146203/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yuuhakobe)
+[![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/Yuu23290394)
