@@ -28,19 +28,19 @@ phone - +(371) 25-511-203 <br />
 
 ### Folow me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)][youtube]
-[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](instagram)
-[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](telegram)
+[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)][instagram]
+[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)][telegram]
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](linkedin)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](vk)
-[![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)][inkedin]
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)][vk]
+[![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)][twitter]
 
 [![Steam](https://img.shields.io/badge/-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/ThisIsHakobeBitch/)
 
 ### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=compact&theme=react)
-[<img align="right" alt="CodeWars" height="50px" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][codewars] 
+[<img align="right" alt="CodeWars" height="50px" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][odewars]
 
 [linkedin]: https://www.linkedin.com/in/yuu-hakobe-a1a146203/
 [steam]: https://steamcommunity.com/id/ThisIsHakobeBitch/
