@@ -15,6 +15,7 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![PY](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Pawn](https://img.shields.io/badge/-PAWN-FF8700?style=for-the-badge&logo=planet&logoColor=ffffff)
+![LESS](https://img.shields.io/badge/-LESS-007ACC?style=for-the-badge) 
 
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -22,8 +23,10 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
 ![ps](https://img.shields.io/badge/-PhotoShop-31A8FF?style=for-the-badge&logo=Adobe-photoshop&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
-
 ### Contact us
+email - yuuhakobe1200@gmail.com
+discord -  yuuhakobe#1112
+phone - +(371) 25-511-203
 
 
 ### Folow me
