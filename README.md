@@ -39,4 +39,4 @@ phone - +(371) 25-511-203 <br />
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
