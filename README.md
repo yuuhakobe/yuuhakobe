@@ -30,7 +30,7 @@ phone - +(371) 25-511-203 <br />
 
 
 ### Folow me
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPRxtrwRtgYfmCpgUoJ_DQw)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCPRxtrwRtgYfmCpgUoJ_DQw)
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/yuuhakobe)
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/raivis.yuuhakobe)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yuu-hakobe-a1a146203/)
