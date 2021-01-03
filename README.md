@@ -33,6 +33,7 @@ phone - +(371) 25-511-203 <br />
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yuu-hakobe-a1a146203/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/yuuhakobe)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/Yuu23290394)
+[![Steam](https://img.shields.io/badge/-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/ThisIsHakobeBitch/)
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
