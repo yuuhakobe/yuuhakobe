@@ -16,6 +16,11 @@ I live in Latvia and i can speak on 4 languages - russian, latvian, english and 
 ![LINUX](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Pawn](https://img.shields.io/badge/-PAWN-FF8700?style=for-the-badge&logo=planet&logoColor=ffffff)
 
+![github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![VSC](https://img.shields.io/badge/-VSC-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+
 ### Contact us
+
 
 ### Folow me
