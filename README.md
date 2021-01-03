@@ -6,6 +6,7 @@ I'm web developer, python developer!
 I'm learning to be a web designer and learning the basics of cybersecurity!
 I live in Latvia and i can speak on 4 languages - russian, latvian, english and japanese! 
 
+
 ### Languages and Tools
 
 ### Contact us
