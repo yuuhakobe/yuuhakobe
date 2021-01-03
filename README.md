@@ -38,7 +38,7 @@ phone - +(371) 25-511-203 <br />
 [![Steam](https://img.shields.io/badge/-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://steamcommunity.com/id/ThisIsHakobeBitch/)
 
 ### Stats
-[<img alt="CodeWars" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][codewars]
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][codewars] <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
