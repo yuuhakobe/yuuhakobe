@@ -40,7 +40,7 @@ phone - +(371) 25-511-203 <br />
 ### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuhakobe&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhakobe&layout=compact&theme=react)
-[<img align="right" alt="CodeWars" height="50px" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][codewars]
+[<img alt="CodeWars" height="50px" width="300px" src="https://www.codewars.com/users/yuuhakobe/badges/large" />][codewars]
 
 [linkedin]: https://www.linkedin.com/in/yuu-hakobe-a1a146203/
 [steam]: https://steamcommunity.com/id/ThisIsHakobeBitch/
