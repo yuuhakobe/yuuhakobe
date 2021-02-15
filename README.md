@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-[![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
-=======
 [![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
->>>>>>> a623234127df803021435c7c2a1f06e9ffca1013
-
+<img src="https://github.com/yuuhakobe/yuuhakobe/blob/main/bannerHakobeRed.jpg" alt="banner image">
 ### About me
 My name is Yuu and i'm 17 years old programmer! <br />
 I'm web and python developer! <br />
