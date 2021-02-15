@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
+=======
+[![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
+>>>>>>> a623234127df803021435c7c2a1f06e9ffca1013
 
 ### About me
 My name is Yuu and i'm 17 years old programmer! <br />
