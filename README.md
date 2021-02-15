@@ -1,4 +1,4 @@
-[![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/banner-GIT.jpg)](https://github.com/yuuhakobe)
+[![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
 
 ### About me
 My name is Yuu and i'm 17 years old programmer! <br />
