@@ -1,4 +1,4 @@
-<a> <img src="https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/hakobeFiolet.jpg" alt="banner image"> </a>
+<a> <img src="https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/hakobeFiolet.jp" alt="banner image"> </a>
 ### About me
 My name is Yuu and i'm 17 years old programmer! <br />
 I'm web and python developer! <br />
