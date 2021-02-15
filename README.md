@@ -1,5 +1,4 @@
-[![Header](https://github.com/yuuhakobe/yuuhakobe/blob/main/bannerHakobeBlue.jpg)](https://github.com/yuuhakobe)
-<img src="https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/bannerHakobeBlue.jpg" alt="banner image">
+<a> <img src="https://github.com/yuuhakobe/yuuhakobe/blob/main/assets/bannerHakobeBlue.jpg" alt="banner image"> </a>
 ### About me
 My name is Yuu and i'm 17 years old programmer! <br />
 I'm web and python developer! <br />
